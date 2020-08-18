@@ -19,3 +19,5 @@ set showmode "last line
 set showcmd "show command being used
 "set ttyfast "don't know what it does
 set autoread "don't know what it does
+set guifont=Consolas:h14 "this works well in win and some linux environment given font exist
+"set guifont=DejaVu\ Sans\ Mono\ 12 "This works in debian based linux suse 
