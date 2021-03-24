@@ -1,0 +1,7 @@
+alias g='vi'
+alias refresh='source ~/.bashrc'
+alias s='source'
+alias ap='abspath'
+alias ll='ls -lrth'
+alias ..='cd ..'
+alias ...='cd ../../'
